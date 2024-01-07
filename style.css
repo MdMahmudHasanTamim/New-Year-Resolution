@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+/*HEADER SECTION*/
+header{
+    background-image: url(./images/banner/banner3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.header-contant{
+    padding: 216px 230px 166px 845px ;
+    color: #FFFFFF;
+    text-align: right;
+}
+
+header h2{
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+header p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 32px;
+}
+
+header button{
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFF;
+}
+
+
+/*MAIN SECTION*/
+main{
+    background-color: #FFF;
+}
+
